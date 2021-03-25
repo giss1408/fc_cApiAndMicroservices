@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "giss1408",
 	"description": "Freecodecamp challenge api and microservices",
+	"keywords": [ "freecodecamp", "api", "microservices"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
